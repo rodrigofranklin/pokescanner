@@ -1,0 +1,13 @@
+# Gradle
+.gradle/
+build/
+**/build/
+gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
+
+# Misc
+.DS_Store
+*.iml
+.idea/
